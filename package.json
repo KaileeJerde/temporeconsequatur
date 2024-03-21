@@ -1,0 +1,21 @@
+{
+  "name": "temporeconsequatur",
+  "version": "1.0.0",
+  "description": "TypeScript declaration for eth-sig-util",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaileeJerde/temporeconsequatur.git"
+  },
+  "author": "ElzaLeuschke",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KaileeJerde/temporeconsequatur.git/issues"
+  },
+  "homepage": "https://github.com/KaileeJerde/temporeconsequatur.git",
+  "devDependencies": {},
+  "dependencies": {
+    "@machinomy/types-safe-buffer": "^0.0.1"
+  }
+}
